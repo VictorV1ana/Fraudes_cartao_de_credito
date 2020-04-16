@@ -1,2 +1,2 @@
 # Fraudes_cartao_de_credito
-Projeto de detecção de fraudes 
+Esse projeto tem como objetivo construir um modelo de Machine Learning para detecção de fraudes de cartão de crédito.
